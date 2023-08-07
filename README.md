@@ -52,6 +52,25 @@ _**이탤릭+두껍게**_<br/>
 
 [![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
 
+# 인용문(BlockQuote)
+
+> 남의 말이나 글에서 직접 또는 간접으로 따온 문장.
+> 네이버 국어사전
+
+> 인용문을 작성하세요!
+>> 중첩인용문
+
+# 인라인 코드 강조
+
+css에서 `background` 혹은 background-image 속성으로 요소에 배경 이미지를 삽입할 수 있습니다. 
+
+# 블록 코드 강조
+
+```html
+<a href='https://www.naver.com/' title='naver로 이동' target='_blank'>NAVER</a>
+
+```
+
 # 표(table)
 
 position 속성
